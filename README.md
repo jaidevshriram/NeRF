@@ -5,7 +5,7 @@
 <span></span>
 <span></span>
 
-<p float="center">
+<p align="center">
   <img src="imgs/poses_test.png" width="230" />
   <img src="imgs/output.gif" width="200" /> 
   <img src="imgs/depth.png" width="200" />
@@ -59,7 +59,7 @@ Implementing NeRF was surprisingly simple, the sheer number of resources online 
 
 2. Visualise the poses - this way you can get a sense of how the poses are distributed in the dataset. [This](https://github.com/demul/extrinsic2pyramid) was a great resource to easily visualise all poses.
 
-![Poses](imgs/poses.png)
+![Poses](imgs/poses_small.png)
 
 3. Visualise the raysampler - this way you can ensure that the rays are enveloping the object. The notebook `notebooks/RaySampler Test.ipynb` does just that. When you see something like this: you can be confident that your raysampler works.
 
