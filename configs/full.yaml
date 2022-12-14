@@ -1,0 +1,7 @@
+batch_size: 10
+width: 800
+height: 800
+num_workers: 5
+raysampler:
+  num_rays: 4096
+  num_pts: 320
