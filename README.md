@@ -77,3 +77,4 @@ The structure of this implementation was largely inspired by Pytorch 3D's implem
 4. https://github.com/yenchenlin/nerf-pytorch
 5. https://docs.nerf.studio/en/latest/nerfology/model_components/visualize_samplers.html
 6. https://dtransposed.github.io/blog/2022/08/06/NeRF/ (love the visuals)
+7. https://www.scratchapixel.com/lessons/3d-basic-rendering/volume-rendering-for-developers/ray-marching-algorithm.html  - Really good resource to truly understand volume rendering
